@@ -1,5 +1,9 @@
 # Openwater Patents
 
+## Disclaimer
+
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. The system described here has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
+
 [![Patent Pledge](https://img.shields.io/badge/Patent%20Pledge-Open%20Access-brightgreen)](Openwater%20Patent%20Pledge.pdf)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
